@@ -20,7 +20,7 @@ def read(*paths):
 # Prepare
 PACKAGE = 'interest'
 INSTALL_REQUIRES = [
-    'aiohttp==0.14',
+    'aiohttp==3.7.4',
 ]
 LINT_REQUIRES = [
     'pylint',
